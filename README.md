@@ -1,3 +1,6 @@
+# This repository is no longer maintained
+Issue reports and pull requests will not be attended.
+
 # twominers
 A Golang wrapper for the [2miners](https://2miners.com) API.
 
@@ -78,10 +81,3 @@ Candidates Total: 0
 
 ## License
 [MIT License](https://github.com/stdfox/twominers/blob/master/LICENSE.md)
-
-## Donation
-If this project help you, you can give me a cup of coffee :)
-
-XMR: `49Nz5mVA9sQjKrT65TgdEneiZo1oCp3n8bCtjA3qaCoa5cuPKxqWBcZfD1f1iv6ASjCQUK55m3r4iho7ivMcNvsLDnP3sqX`
-
-BTC: `1Kyxw87175msSRkXez7iKrzZLBaPb7rp1H`
